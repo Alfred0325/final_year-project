@@ -1,4 +1,4 @@
 # The resources that is useful:
 
-> ## add blurto the image
+> ## add blur to the image
 > - https://datacarpentry.org/image-processing/06-blurring/
